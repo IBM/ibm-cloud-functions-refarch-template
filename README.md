@@ -24,7 +24,7 @@ One function, or action, is triggered by [...]. These [...] are piped to another
 
 ## Deploy through the IBM Cloud Functions console user interface
 
-Choose "[Start Creating](https://console.bluemix.net/openwhisk/create)" and select "Deploy template" then [This template] from the list. A wizard will then take you through configuration and connection to event sources step-by-step.
+Choose "[Start Creating](https://console.bluemix.net/openwhisk/create)" and select `Deploy template` then [This template] from the list. A wizard will then take you through configuration and connection to event sources step-by-step.
 
 Behind the scenes, the UI uses `wskdeploy`, which you can also use directly from the CLI by following the steps in the next section.
 
