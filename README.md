@@ -22,6 +22,19 @@ One function, or action, is triggered by [...]. These [...] are piped to another
 
 ![Sample Architecture](img/refarch-placeholder.png)
 
+## Prerequisite
+You should have a basic understanding of the OpenWhisk programming model. If not, [try the action, trigger, and rule demo first](https://github.com/IBM/openwhisk-action-trigger-rule).
+
+Also, you'll need XXX
+
+### Steps
+
+1. Install X
+2. Configure X 
+3. Verify X
+4. Run Y
+5. etc.
+
 ## Deploy through the IBM Cloud Functions console user interface
 
 Choose "[Start Creating](https://console.bluemix.net/openwhisk/create)" and select "Deploy template" then [This template] from the list. A wizard will then take you through configuration and connection to event sources step-by-step.
